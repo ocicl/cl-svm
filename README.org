@@ -1,0 +1,10 @@
+* cl-svm
+
+Scalar Vector Machine implementation in pure Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gonzojive/cl-svm   |
+| commit  | 8294d61  |
+| systems | cl-svm |
+|---------+-------------------------------------------|
+
